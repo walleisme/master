@@ -1,2 +1,7 @@
 # master
 more love
+
+public function do_change(){
+ ehco 'hello world!';
+  $this->display();
+}
